@@ -1,0 +1,19 @@
+{
+  "name": "dnsuch2",
+  "version": "1.0.0",
+  "description": "tester",
+  "main": "app.js",
+  "scripts": {
+    "test": "whoop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/designandsuch/dnsuch2.git"
+  },
+  "author": "Thijs de Jong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/designandsuch/dnsuch2/issues"
+  },
+  "homepage": "https://github.com/designandsuch/dnsuch2#readme"
+}
